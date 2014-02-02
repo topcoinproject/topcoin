@@ -1,0 +1,9 @@
+Building TopCoin
+
+See doc/readme-qt.rst for instructions on building TopCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TopCoin.
+
+See doc/build-*.txt for instructions on building TopCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TopCoin.
